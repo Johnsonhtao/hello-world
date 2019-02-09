@@ -3,3 +3,5 @@
 
 This is my first Github issue 
 thanks and welcome to visited
+
+very good! I have learned how to merge and pull requeste.
